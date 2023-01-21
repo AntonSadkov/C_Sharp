@@ -1,0 +1,8 @@
+C:\Users\anton\source\repos\HomeWork\StringMethod\bin\Debug\StringMethod.exe.config
+C:\Users\anton\source\repos\HomeWork\StringMethod\bin\Debug\StringMethod.exe
+C:\Users\anton\source\repos\HomeWork\StringMethod\bin\Debug\StringMethod.pdb
+C:\Users\anton\source\repos\HomeWork\StringMethod\obj\Debug\StringMethod.csproj.AssemblyReference.cache
+C:\Users\anton\source\repos\HomeWork\StringMethod\obj\Debug\StringMethod.csproj.SuggestedBindingRedirects.cache
+C:\Users\anton\source\repos\HomeWork\StringMethod\obj\Debug\StringMethod.csproj.CoreCompileInputs.cache
+C:\Users\anton\source\repos\HomeWork\StringMethod\obj\Debug\StringMethod.exe
+C:\Users\anton\source\repos\HomeWork\StringMethod\obj\Debug\StringMethod.pdb

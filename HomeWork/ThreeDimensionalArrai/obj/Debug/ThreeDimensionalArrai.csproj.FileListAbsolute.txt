@@ -1,0 +1,8 @@
+C:\Users\anton\source\repos\HomeWork\ThreeDimensionalArrai\bin\Debug\ThreeDimensionalArrai.exe.config
+C:\Users\anton\source\repos\HomeWork\ThreeDimensionalArrai\bin\Debug\ThreeDimensionalArrai.exe
+C:\Users\anton\source\repos\HomeWork\ThreeDimensionalArrai\bin\Debug\ThreeDimensionalArrai.pdb
+C:\Users\anton\source\repos\HomeWork\ThreeDimensionalArrai\obj\Debug\ThreeDimensionalArrai.csproj.AssemblyReference.cache
+C:\Users\anton\source\repos\HomeWork\ThreeDimensionalArrai\obj\Debug\ThreeDimensionalArrai.csproj.SuggestedBindingRedirects.cache
+C:\Users\anton\source\repos\HomeWork\ThreeDimensionalArrai\obj\Debug\ThreeDimensionalArrai.csproj.CoreCompileInputs.cache
+C:\Users\anton\source\repos\HomeWork\ThreeDimensionalArrai\obj\Debug\ThreeDimensionalArrai.exe
+C:\Users\anton\source\repos\HomeWork\ThreeDimensionalArrai\obj\Debug\ThreeDimensionalArrai.pdb

@@ -1,0 +1,15 @@
+C:\Users\anton\source\repos\IndexRange\IndexRange\bin\Debug\net6.0\IndexRange.exe
+C:\Users\anton\source\repos\IndexRange\IndexRange\bin\Debug\net6.0\IndexRange.deps.json
+C:\Users\anton\source\repos\IndexRange\IndexRange\bin\Debug\net6.0\IndexRange.runtimeconfig.json
+C:\Users\anton\source\repos\IndexRange\IndexRange\bin\Debug\net6.0\IndexRange.dll
+C:\Users\anton\source\repos\IndexRange\IndexRange\bin\Debug\net6.0\IndexRange.pdb
+C:\Users\anton\source\repos\IndexRange\IndexRange\obj\Debug\net6.0\IndexRange.csproj.AssemblyReference.cache
+C:\Users\anton\source\repos\IndexRange\IndexRange\obj\Debug\net6.0\IndexRange.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\source\repos\IndexRange\IndexRange\obj\Debug\net6.0\IndexRange.AssemblyInfoInputs.cache
+C:\Users\anton\source\repos\IndexRange\IndexRange\obj\Debug\net6.0\IndexRange.AssemblyInfo.cs
+C:\Users\anton\source\repos\IndexRange\IndexRange\obj\Debug\net6.0\IndexRange.csproj.CoreCompileInputs.cache
+C:\Users\anton\source\repos\IndexRange\IndexRange\obj\Debug\net6.0\IndexRange.dll
+C:\Users\anton\source\repos\IndexRange\IndexRange\obj\Debug\net6.0\refint\IndexRange.dll
+C:\Users\anton\source\repos\IndexRange\IndexRange\obj\Debug\net6.0\IndexRange.pdb
+C:\Users\anton\source\repos\IndexRange\IndexRange\obj\Debug\net6.0\IndexRange.genruntimeconfig.cache
+C:\Users\anton\source\repos\IndexRange\IndexRange\obj\Debug\net6.0\ref\IndexRange.dll

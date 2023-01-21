@@ -1,0 +1,8 @@
+C:\Users\anton\source\repos\HomeWork\CountEvenNumbers\bin\Debug\CountEvenNumbers.exe.config
+C:\Users\anton\source\repos\HomeWork\CountEvenNumbers\bin\Debug\CountEvenNumbers.exe
+C:\Users\anton\source\repos\HomeWork\CountEvenNumbers\bin\Debug\CountEvenNumbers.pdb
+C:\Users\anton\source\repos\HomeWork\CountEvenNumbers\obj\Debug\CountEvenNumbers.csproj.AssemblyReference.cache
+C:\Users\anton\source\repos\HomeWork\CountEvenNumbers\obj\Debug\CountEvenNumbers.csproj.SuggestedBindingRedirects.cache
+C:\Users\anton\source\repos\HomeWork\CountEvenNumbers\obj\Debug\CountEvenNumbers.csproj.CoreCompileInputs.cache
+C:\Users\anton\source\repos\HomeWork\CountEvenNumbers\obj\Debug\CountEvenNumbers.exe
+C:\Users\anton\source\repos\HomeWork\CountEvenNumbers\obj\Debug\CountEvenNumbers.pdb

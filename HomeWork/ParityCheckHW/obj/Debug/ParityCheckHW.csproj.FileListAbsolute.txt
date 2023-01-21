@@ -1,0 +1,8 @@
+C:\Users\anton\source\repos\HomeWork\ParityCheckHW\bin\Debug\ParityCheckHW.exe.config
+C:\Users\anton\source\repos\HomeWork\ParityCheckHW\bin\Debug\ParityCheckHW.exe
+C:\Users\anton\source\repos\HomeWork\ParityCheckHW\bin\Debug\ParityCheckHW.pdb
+C:\Users\anton\source\repos\HomeWork\ParityCheckHW\obj\Debug\ParityCheckHW.csproj.AssemblyReference.cache
+C:\Users\anton\source\repos\HomeWork\ParityCheckHW\obj\Debug\ParityCheckHW.csproj.SuggestedBindingRedirects.cache
+C:\Users\anton\source\repos\HomeWork\ParityCheckHW\obj\Debug\ParityCheckHW.csproj.CoreCompileInputs.cache
+C:\Users\anton\source\repos\HomeWork\ParityCheckHW\obj\Debug\ParityCheckHW.exe
+C:\Users\anton\source\repos\HomeWork\ParityCheckHW\obj\Debug\ParityCheckHW.pdb

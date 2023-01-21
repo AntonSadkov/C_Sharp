@@ -1,0 +1,15 @@
+C:\Users\anton\source\repos\RandomYesNo\RandomYesNo\bin\Debug\net6.0\RandomYesNo.exe
+C:\Users\anton\source\repos\RandomYesNo\RandomYesNo\bin\Debug\net6.0\RandomYesNo.deps.json
+C:\Users\anton\source\repos\RandomYesNo\RandomYesNo\bin\Debug\net6.0\RandomYesNo.runtimeconfig.json
+C:\Users\anton\source\repos\RandomYesNo\RandomYesNo\bin\Debug\net6.0\RandomYesNo.dll
+C:\Users\anton\source\repos\RandomYesNo\RandomYesNo\bin\Debug\net6.0\RandomYesNo.pdb
+C:\Users\anton\source\repos\RandomYesNo\RandomYesNo\obj\Debug\net6.0\RandomYesNo.csproj.AssemblyReference.cache
+C:\Users\anton\source\repos\RandomYesNo\RandomYesNo\obj\Debug\net6.0\RandomYesNo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\source\repos\RandomYesNo\RandomYesNo\obj\Debug\net6.0\RandomYesNo.AssemblyInfoInputs.cache
+C:\Users\anton\source\repos\RandomYesNo\RandomYesNo\obj\Debug\net6.0\RandomYesNo.AssemblyInfo.cs
+C:\Users\anton\source\repos\RandomYesNo\RandomYesNo\obj\Debug\net6.0\RandomYesNo.csproj.CoreCompileInputs.cache
+C:\Users\anton\source\repos\RandomYesNo\RandomYesNo\obj\Debug\net6.0\RandomYesNo.dll
+C:\Users\anton\source\repos\RandomYesNo\RandomYesNo\obj\Debug\net6.0\refint\RandomYesNo.dll
+C:\Users\anton\source\repos\RandomYesNo\RandomYesNo\obj\Debug\net6.0\RandomYesNo.pdb
+C:\Users\anton\source\repos\RandomYesNo\RandomYesNo\obj\Debug\net6.0\RandomYesNo.genruntimeconfig.cache
+C:\Users\anton\source\repos\RandomYesNo\RandomYesNo\obj\Debug\net6.0\ref\RandomYesNo.dll

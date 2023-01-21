@@ -1,0 +1,8 @@
+C:\Users\anton\source\repos\HomeWork\SearchArrayIndex\bin\Debug\SearchArrayIndex.exe.config
+C:\Users\anton\source\repos\HomeWork\SearchArrayIndex\bin\Debug\SearchArrayIndex.exe
+C:\Users\anton\source\repos\HomeWork\SearchArrayIndex\bin\Debug\SearchArrayIndex.pdb
+C:\Users\anton\source\repos\HomeWork\SearchArrayIndex\obj\Debug\SearchArrayIndex.csproj.AssemblyReference.cache
+C:\Users\anton\source\repos\HomeWork\SearchArrayIndex\obj\Debug\SearchArrayIndex.csproj.SuggestedBindingRedirects.cache
+C:\Users\anton\source\repos\HomeWork\SearchArrayIndex\obj\Debug\SearchArrayIndex.csproj.CoreCompileInputs.cache
+C:\Users\anton\source\repos\HomeWork\SearchArrayIndex\obj\Debug\SearchArrayIndex.exe
+C:\Users\anton\source\repos\HomeWork\SearchArrayIndex\obj\Debug\SearchArrayIndex.pdb

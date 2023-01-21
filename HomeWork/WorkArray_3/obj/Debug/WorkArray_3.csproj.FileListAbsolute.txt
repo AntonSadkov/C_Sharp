@@ -1,0 +1,8 @@
+C:\Users\anton\source\repos\HomeWork\WorkArray_3\bin\Debug\WorkArray_3.exe.config
+C:\Users\anton\source\repos\HomeWork\WorkArray_3\bin\Debug\WorkArray_3.exe
+C:\Users\anton\source\repos\HomeWork\WorkArray_3\bin\Debug\WorkArray_3.pdb
+C:\Users\anton\source\repos\HomeWork\WorkArray_3\obj\Debug\WorkArray_3.csproj.AssemblyReference.cache
+C:\Users\anton\source\repos\HomeWork\WorkArray_3\obj\Debug\WorkArray_3.csproj.SuggestedBindingRedirects.cache
+C:\Users\anton\source\repos\HomeWork\WorkArray_3\obj\Debug\WorkArray_3.csproj.CoreCompileInputs.cache
+C:\Users\anton\source\repos\HomeWork\WorkArray_3\obj\Debug\WorkArray_3.exe
+C:\Users\anton\source\repos\HomeWork\WorkArray_3\obj\Debug\WorkArray_3.pdb

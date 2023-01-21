@@ -1,0 +1,8 @@
+C:\Users\anton\source\repos\HomeWork\SteppedArray\bin\Debug\SteppedArray.exe.config
+C:\Users\anton\source\repos\HomeWork\SteppedArray\bin\Debug\SteppedArray.exe
+C:\Users\anton\source\repos\HomeWork\SteppedArray\bin\Debug\SteppedArray.pdb
+C:\Users\anton\source\repos\HomeWork\SteppedArray\obj\Debug\SteppedArray.csproj.AssemblyReference.cache
+C:\Users\anton\source\repos\HomeWork\SteppedArray\obj\Debug\SteppedArray.csproj.SuggestedBindingRedirects.cache
+C:\Users\anton\source\repos\HomeWork\SteppedArray\obj\Debug\SteppedArray.csproj.CoreCompileInputs.cache
+C:\Users\anton\source\repos\HomeWork\SteppedArray\obj\Debug\SteppedArray.exe
+C:\Users\anton\source\repos\HomeWork\SteppedArray\obj\Debug\SteppedArray.pdb

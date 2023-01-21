@@ -1,0 +1,8 @@
+C:\Users\anton\source\repos\HomeWork\Triangle_3\bin\Debug\Triangle_3.exe.config
+C:\Users\anton\source\repos\HomeWork\Triangle_3\bin\Debug\Triangle_3.exe
+C:\Users\anton\source\repos\HomeWork\Triangle_3\bin\Debug\Triangle_3.pdb
+C:\Users\anton\source\repos\HomeWork\Triangle_3\obj\Debug\Triangle_3.csproj.AssemblyReference.cache
+C:\Users\anton\source\repos\HomeWork\Triangle_3\obj\Debug\Triangle_3.csproj.SuggestedBindingRedirects.cache
+C:\Users\anton\source\repos\HomeWork\Triangle_3\obj\Debug\Triangle_3.csproj.CoreCompileInputs.cache
+C:\Users\anton\source\repos\HomeWork\Triangle_3\obj\Debug\Triangle_3.exe
+C:\Users\anton\source\repos\HomeWork\Triangle_3\obj\Debug\Triangle_3.pdb

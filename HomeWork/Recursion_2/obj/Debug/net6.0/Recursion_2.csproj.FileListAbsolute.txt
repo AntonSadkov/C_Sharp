@@ -1,0 +1,15 @@
+C:\Users\anton\source\repos\AntonSadkov\C_Sharp\HomeWork\Recursion_2\bin\Debug\net6.0\Recursion_2.exe
+C:\Users\anton\source\repos\AntonSadkov\C_Sharp\HomeWork\Recursion_2\bin\Debug\net6.0\Recursion_2.deps.json
+C:\Users\anton\source\repos\AntonSadkov\C_Sharp\HomeWork\Recursion_2\bin\Debug\net6.0\Recursion_2.runtimeconfig.json
+C:\Users\anton\source\repos\AntonSadkov\C_Sharp\HomeWork\Recursion_2\bin\Debug\net6.0\Recursion_2.dll
+C:\Users\anton\source\repos\AntonSadkov\C_Sharp\HomeWork\Recursion_2\bin\Debug\net6.0\Recursion_2.pdb
+C:\Users\anton\source\repos\AntonSadkov\C_Sharp\HomeWork\Recursion_2\obj\Debug\net6.0\Recursion_2.csproj.AssemblyReference.cache
+C:\Users\anton\source\repos\AntonSadkov\C_Sharp\HomeWork\Recursion_2\obj\Debug\net6.0\Recursion_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\source\repos\AntonSadkov\C_Sharp\HomeWork\Recursion_2\obj\Debug\net6.0\Recursion_2.AssemblyInfoInputs.cache
+C:\Users\anton\source\repos\AntonSadkov\C_Sharp\HomeWork\Recursion_2\obj\Debug\net6.0\Recursion_2.AssemblyInfo.cs
+C:\Users\anton\source\repos\AntonSadkov\C_Sharp\HomeWork\Recursion_2\obj\Debug\net6.0\Recursion_2.csproj.CoreCompileInputs.cache
+C:\Users\anton\source\repos\AntonSadkov\C_Sharp\HomeWork\Recursion_2\obj\Debug\net6.0\Recursion_2.dll
+C:\Users\anton\source\repos\AntonSadkov\C_Sharp\HomeWork\Recursion_2\obj\Debug\net6.0\refint\Recursion_2.dll
+C:\Users\anton\source\repos\AntonSadkov\C_Sharp\HomeWork\Recursion_2\obj\Debug\net6.0\Recursion_2.pdb
+C:\Users\anton\source\repos\AntonSadkov\C_Sharp\HomeWork\Recursion_2\obj\Debug\net6.0\Recursion_2.genruntimeconfig.cache
+C:\Users\anton\source\repos\AntonSadkov\C_Sharp\HomeWork\Recursion_2\obj\Debug\net6.0\ref\Recursion_2.dll

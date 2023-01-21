@@ -1,0 +1,15 @@
+C:\Users\anton\source\repos\AntonSadkov\C_Sharp\HomeWork\ModifierIn\bin\Debug\net6.0\ModifierIn.exe
+C:\Users\anton\source\repos\AntonSadkov\C_Sharp\HomeWork\ModifierIn\bin\Debug\net6.0\ModifierIn.deps.json
+C:\Users\anton\source\repos\AntonSadkov\C_Sharp\HomeWork\ModifierIn\bin\Debug\net6.0\ModifierIn.runtimeconfig.json
+C:\Users\anton\source\repos\AntonSadkov\C_Sharp\HomeWork\ModifierIn\bin\Debug\net6.0\ModifierIn.dll
+C:\Users\anton\source\repos\AntonSadkov\C_Sharp\HomeWork\ModifierIn\bin\Debug\net6.0\ModifierIn.pdb
+C:\Users\anton\source\repos\AntonSadkov\C_Sharp\HomeWork\ModifierIn\obj\Debug\net6.0\ModifierIn.csproj.AssemblyReference.cache
+C:\Users\anton\source\repos\AntonSadkov\C_Sharp\HomeWork\ModifierIn\obj\Debug\net6.0\ModifierIn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\source\repos\AntonSadkov\C_Sharp\HomeWork\ModifierIn\obj\Debug\net6.0\ModifierIn.AssemblyInfoInputs.cache
+C:\Users\anton\source\repos\AntonSadkov\C_Sharp\HomeWork\ModifierIn\obj\Debug\net6.0\ModifierIn.AssemblyInfo.cs
+C:\Users\anton\source\repos\AntonSadkov\C_Sharp\HomeWork\ModifierIn\obj\Debug\net6.0\ModifierIn.csproj.CoreCompileInputs.cache
+C:\Users\anton\source\repos\AntonSadkov\C_Sharp\HomeWork\ModifierIn\obj\Debug\net6.0\ModifierIn.dll
+C:\Users\anton\source\repos\AntonSadkov\C_Sharp\HomeWork\ModifierIn\obj\Debug\net6.0\refint\ModifierIn.dll
+C:\Users\anton\source\repos\AntonSadkov\C_Sharp\HomeWork\ModifierIn\obj\Debug\net6.0\ModifierIn.pdb
+C:\Users\anton\source\repos\AntonSadkov\C_Sharp\HomeWork\ModifierIn\obj\Debug\net6.0\ModifierIn.genruntimeconfig.cache
+C:\Users\anton\source\repos\AntonSadkov\C_Sharp\HomeWork\ModifierIn\obj\Debug\net6.0\ref\ModifierIn.dll

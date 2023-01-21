@@ -1,0 +1,15 @@
+C:\Users\anton\source\repos\AntonSadkov\C_Sharp\HomeWork\MethodParams\bin\Debug\net6.0\MethodParams.exe
+C:\Users\anton\source\repos\AntonSadkov\C_Sharp\HomeWork\MethodParams\bin\Debug\net6.0\MethodParams.deps.json
+C:\Users\anton\source\repos\AntonSadkov\C_Sharp\HomeWork\MethodParams\bin\Debug\net6.0\MethodParams.runtimeconfig.json
+C:\Users\anton\source\repos\AntonSadkov\C_Sharp\HomeWork\MethodParams\bin\Debug\net6.0\MethodParams.dll
+C:\Users\anton\source\repos\AntonSadkov\C_Sharp\HomeWork\MethodParams\bin\Debug\net6.0\MethodParams.pdb
+C:\Users\anton\source\repos\AntonSadkov\C_Sharp\HomeWork\MethodParams\obj\Debug\net6.0\MethodParams.csproj.AssemblyReference.cache
+C:\Users\anton\source\repos\AntonSadkov\C_Sharp\HomeWork\MethodParams\obj\Debug\net6.0\MethodParams.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\source\repos\AntonSadkov\C_Sharp\HomeWork\MethodParams\obj\Debug\net6.0\MethodParams.AssemblyInfoInputs.cache
+C:\Users\anton\source\repos\AntonSadkov\C_Sharp\HomeWork\MethodParams\obj\Debug\net6.0\MethodParams.AssemblyInfo.cs
+C:\Users\anton\source\repos\AntonSadkov\C_Sharp\HomeWork\MethodParams\obj\Debug\net6.0\MethodParams.csproj.CoreCompileInputs.cache
+C:\Users\anton\source\repos\AntonSadkov\C_Sharp\HomeWork\MethodParams\obj\Debug\net6.0\MethodParams.dll
+C:\Users\anton\source\repos\AntonSadkov\C_Sharp\HomeWork\MethodParams\obj\Debug\net6.0\refint\MethodParams.dll
+C:\Users\anton\source\repos\AntonSadkov\C_Sharp\HomeWork\MethodParams\obj\Debug\net6.0\MethodParams.pdb
+C:\Users\anton\source\repos\AntonSadkov\C_Sharp\HomeWork\MethodParams\obj\Debug\net6.0\MethodParams.genruntimeconfig.cache
+C:\Users\anton\source\repos\AntonSadkov\C_Sharp\HomeWork\MethodParams\obj\Debug\net6.0\ref\MethodParams.dll

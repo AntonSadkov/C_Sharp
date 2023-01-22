@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\anton\\source\\repos\\AntonSadkov\\C_Sharp\\HomeWork\\MethodParams\\MethodParams.csproj": {}
+    "C:\\Users\\anton\\Source\\Repos\\AntonSadkov\\C_Sharp\\HomeWork\\MethodParams\\MethodParams.csproj": {}
   },
   "projects": {
-    "C:\\Users\\anton\\source\\repos\\AntonSadkov\\C_Sharp\\HomeWork\\MethodParams\\MethodParams.csproj": {
+    "C:\\Users\\anton\\Source\\Repos\\AntonSadkov\\C_Sharp\\HomeWork\\MethodParams\\MethodParams.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\anton\\source\\repos\\AntonSadkov\\C_Sharp\\HomeWork\\MethodParams\\MethodParams.csproj",
+        "projectUniqueName": "C:\\Users\\anton\\Source\\Repos\\AntonSadkov\\C_Sharp\\HomeWork\\MethodParams\\MethodParams.csproj",
         "projectName": "MethodParams",
-        "projectPath": "C:\\Users\\anton\\source\\repos\\AntonSadkov\\C_Sharp\\HomeWork\\MethodParams\\MethodParams.csproj",
+        "projectPath": "C:\\Users\\anton\\Source\\Repos\\AntonSadkov\\C_Sharp\\HomeWork\\MethodParams\\MethodParams.csproj",
         "packagesPath": "C:\\Users\\anton\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\anton\\source\\repos\\AntonSadkov\\C_Sharp\\HomeWork\\MethodParams\\obj\\",
+        "outputPath": "C:\\Users\\anton\\Source\\Repos\\AntonSadkov\\C_Sharp\\HomeWork\\MethodParams\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -41,17 +41,19 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringMethod", "StringMetho
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SearchArrayIndex", "SearchArrayIndex\SearchArrayIndex.csproj", "{85E41B2C-5ED0-4D15-99DD-1AF1B7E5C470}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModifierIn", "ModifierIn\ModifierIn.csproj", "{549AA6F2-42BB-4F11-8E5A-C36D84CF20C1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ModifierIn", "ModifierIn\ModifierIn.csproj", "{549AA6F2-42BB-4F11-8E5A-C36D84CF20C1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodParams", "MethodParams\MethodParams.csproj", "{614B90AF-E642-41C1-BE5D-CE7CEAFA4259}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MethodParams", "MethodParams\MethodParams.csproj", "{614B90AF-E642-41C1-BE5D-CE7CEAFA4259}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Recursion", "Recursion", "{979CC4D8-9A80-4FFB-915B-51D732D1026F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Recursion_1", "Recursion_1\Recursion_1.csproj", "{4714984A-55AE-4154-929A-D722A40ED5F3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Recursion_1", "Recursion_1\Recursion_1.csproj", "{4714984A-55AE-4154-929A-D722A40ED5F3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Recursion_2", "Recursion_2\Recursion_2.csproj", "{EDAC1343-22C5-4A13-B723-2C93DAF47641}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Recursion_2", "Recursion_2\Recursion_2.csproj", "{EDAC1343-22C5-4A13-B723-2C93DAF47641}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Recursion_3", "Recursion_3\Recursion_3.csproj", "{9F970E3A-3D01-4AC3-B07F-7FA66D3BE06D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Recursion_3", "Recursion_3\Recursion_3.csproj", "{9F970E3A-3D01-4AC3-B07F-7FA66D3BE06D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleReadKeyEnum", "ConsoleReadKeyEnum\ConsoleReadKeyEnum.csproj", "{1982EFC4-625F-46AD-9629-8F9D2D6FBDC6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -147,6 +149,10 @@ Global
 		{9F970E3A-3D01-4AC3-B07F-7FA66D3BE06D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9F970E3A-3D01-4AC3-B07F-7FA66D3BE06D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9F970E3A-3D01-4AC3-B07F-7FA66D3BE06D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1982EFC4-625F-46AD-9629-8F9D2D6FBDC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1982EFC4-625F-46AD-9629-8F9D2D6FBDC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1982EFC4-625F-46AD-9629-8F9D2D6FBDC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1982EFC4-625F-46AD-9629-8F9D2D6FBDC6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

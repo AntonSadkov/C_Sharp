@@ -1,0 +1,15 @@
+C:\Users\anton\source\repos\AntonSadkov\C_Sharp\HomeWork\ConsoleReadKeyEnum\bin\Debug\net6.0\ConsoleReadKeyEnum.exe
+C:\Users\anton\source\repos\AntonSadkov\C_Sharp\HomeWork\ConsoleReadKeyEnum\bin\Debug\net6.0\ConsoleReadKeyEnum.deps.json
+C:\Users\anton\source\repos\AntonSadkov\C_Sharp\HomeWork\ConsoleReadKeyEnum\bin\Debug\net6.0\ConsoleReadKeyEnum.runtimeconfig.json
+C:\Users\anton\source\repos\AntonSadkov\C_Sharp\HomeWork\ConsoleReadKeyEnum\bin\Debug\net6.0\ConsoleReadKeyEnum.dll
+C:\Users\anton\source\repos\AntonSadkov\C_Sharp\HomeWork\ConsoleReadKeyEnum\bin\Debug\net6.0\ConsoleReadKeyEnum.pdb
+C:\Users\anton\source\repos\AntonSadkov\C_Sharp\HomeWork\ConsoleReadKeyEnum\obj\Debug\net6.0\ConsoleReadKeyEnum.csproj.AssemblyReference.cache
+C:\Users\anton\source\repos\AntonSadkov\C_Sharp\HomeWork\ConsoleReadKeyEnum\obj\Debug\net6.0\ConsoleReadKeyEnum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\source\repos\AntonSadkov\C_Sharp\HomeWork\ConsoleReadKeyEnum\obj\Debug\net6.0\ConsoleReadKeyEnum.AssemblyInfoInputs.cache
+C:\Users\anton\source\repos\AntonSadkov\C_Sharp\HomeWork\ConsoleReadKeyEnum\obj\Debug\net6.0\ConsoleReadKeyEnum.AssemblyInfo.cs
+C:\Users\anton\source\repos\AntonSadkov\C_Sharp\HomeWork\ConsoleReadKeyEnum\obj\Debug\net6.0\ConsoleReadKeyEnum.csproj.CoreCompileInputs.cache
+C:\Users\anton\source\repos\AntonSadkov\C_Sharp\HomeWork\ConsoleReadKeyEnum\obj\Debug\net6.0\ConsoleReadKeyEnum.dll
+C:\Users\anton\source\repos\AntonSadkov\C_Sharp\HomeWork\ConsoleReadKeyEnum\obj\Debug\net6.0\refint\ConsoleReadKeyEnum.dll
+C:\Users\anton\source\repos\AntonSadkov\C_Sharp\HomeWork\ConsoleReadKeyEnum\obj\Debug\net6.0\ConsoleReadKeyEnum.pdb
+C:\Users\anton\source\repos\AntonSadkov\C_Sharp\HomeWork\ConsoleReadKeyEnum\obj\Debug\net6.0\ConsoleReadKeyEnum.genruntimeconfig.cache
+C:\Users\anton\source\repos\AntonSadkov\C_Sharp\HomeWork\ConsoleReadKeyEnum\obj\Debug\net6.0\ref\ConsoleReadKeyEnum.dll

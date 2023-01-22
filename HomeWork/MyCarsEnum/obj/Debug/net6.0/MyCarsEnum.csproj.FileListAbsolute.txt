@@ -1,0 +1,15 @@
+C:\Users\anton\source\repos\AntonSadkov\C_Sharp\HomeWork\MyCarsEnum\bin\Debug\net6.0\MyCarsEnum.exe
+C:\Users\anton\source\repos\AntonSadkov\C_Sharp\HomeWork\MyCarsEnum\bin\Debug\net6.0\MyCarsEnum.deps.json
+C:\Users\anton\source\repos\AntonSadkov\C_Sharp\HomeWork\MyCarsEnum\bin\Debug\net6.0\MyCarsEnum.runtimeconfig.json
+C:\Users\anton\source\repos\AntonSadkov\C_Sharp\HomeWork\MyCarsEnum\bin\Debug\net6.0\MyCarsEnum.dll
+C:\Users\anton\source\repos\AntonSadkov\C_Sharp\HomeWork\MyCarsEnum\bin\Debug\net6.0\MyCarsEnum.pdb
+C:\Users\anton\source\repos\AntonSadkov\C_Sharp\HomeWork\MyCarsEnum\obj\Debug\net6.0\MyCarsEnum.csproj.AssemblyReference.cache
+C:\Users\anton\source\repos\AntonSadkov\C_Sharp\HomeWork\MyCarsEnum\obj\Debug\net6.0\MyCarsEnum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\source\repos\AntonSadkov\C_Sharp\HomeWork\MyCarsEnum\obj\Debug\net6.0\MyCarsEnum.AssemblyInfoInputs.cache
+C:\Users\anton\source\repos\AntonSadkov\C_Sharp\HomeWork\MyCarsEnum\obj\Debug\net6.0\MyCarsEnum.AssemblyInfo.cs
+C:\Users\anton\source\repos\AntonSadkov\C_Sharp\HomeWork\MyCarsEnum\obj\Debug\net6.0\MyCarsEnum.csproj.CoreCompileInputs.cache
+C:\Users\anton\source\repos\AntonSadkov\C_Sharp\HomeWork\MyCarsEnum\obj\Debug\net6.0\MyCarsEnum.dll
+C:\Users\anton\source\repos\AntonSadkov\C_Sharp\HomeWork\MyCarsEnum\obj\Debug\net6.0\refint\MyCarsEnum.dll
+C:\Users\anton\source\repos\AntonSadkov\C_Sharp\HomeWork\MyCarsEnum\obj\Debug\net6.0\MyCarsEnum.pdb
+C:\Users\anton\source\repos\AntonSadkov\C_Sharp\HomeWork\MyCarsEnum\obj\Debug\net6.0\MyCarsEnum.genruntimeconfig.cache
+C:\Users\anton\source\repos\AntonSadkov\C_Sharp\HomeWork\MyCarsEnum\obj\Debug\net6.0\ref\MyCarsEnum.dll

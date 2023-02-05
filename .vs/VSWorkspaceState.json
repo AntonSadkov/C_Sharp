@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\HomeWork",
+    "\\HomeWork\\MyCarsEnum"
   ],
-  "SelectedNode": "\\HomeWork.sln",
+  "SelectedNode": "\\HomeWork\\MyCarsEnum\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

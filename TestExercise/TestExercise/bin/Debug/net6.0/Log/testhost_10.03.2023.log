@@ -1,0 +1,4 @@
+[10.03.2023 17:33:33.609] [NUnit.Framework.Assert.ReportFailure()]   Страница Philosophy не найдена
+  Expected: True
+  But was:  False
+

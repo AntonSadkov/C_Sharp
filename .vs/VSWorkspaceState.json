@@ -1,9 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\HomeWork",
+    "\\GameOfLife",
+    "\\GameOfLife\\GameOfLife",
     "\\HomeWork\\MyCarsEnum"
   ],
-  "SelectedNode": "\\HomeWork\\MyCarsEnum\\Program.cs",
+  "SelectedNode": "\\GameOfLife\\GameOfLife\\GameEngine.cs",
   "PreviewInSolutionExplorer": false
 }
